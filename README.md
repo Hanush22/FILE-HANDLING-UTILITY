@@ -25,3 +25,4 @@ This program serves as a simple yet effective framework for basic file handling 
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/a83f63a5-d3cb-4dac-928c-aad999adff9f)
